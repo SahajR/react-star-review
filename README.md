@@ -7,6 +7,8 @@
 A simple and customizable rating component for React
 ![Banner](assets/demo_rating.png "React star rating demo")
 
+View the ![demo](https://review.demo.sahajr.com).
+
 ## Install
 ```js
 npm install react-star-review
