@@ -5,7 +5,7 @@
 [![travis build](https://img.shields.io/travis/SahajR/react-star-review.svg?style=flat-square)](https://travis-ci.org/SahajR/react-star-review)
 
 A simple and customizable rating component for React
-![Banner](assets/demo_rating.png "React star rating demo")
+![Banner](assets/banner.png "React star rating demo")
 
 View the [demo](https://review.demo.sahajr.com).
 
