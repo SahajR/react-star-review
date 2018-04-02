@@ -13,6 +13,7 @@ A simple and customizable rating component for React
 | ------ | ------ | ------ | ------ |
 | size | Number | Size of a star in px | 30 |
 | rating | Number | Initial rating  | 0 |
+| rtl | Boolean | Rating behaves in right-to-left direction | false |
 | interactive | Boolean | If true, users can change a rating. Must also provide `onRatingChanged` | false |
 | onRatingChanged | Function | Callback when rating changes | null |
 | count | Number | Number of stars, aka the scale | 5 |
@@ -24,5 +25,5 @@ A simple and customizable rating component for React
 
 
 ## Todos
-- [ ] Add support for right-to-left
+- [x] Add support for right-to-left
 - [ ] Add support for custom icons

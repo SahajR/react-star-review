@@ -101,7 +101,7 @@ export default class Rating extends React.Component {
             top: borderThickness,
             left: borderThickness,
             background: `linear-gradient(
-              90deg,
+              ${this.props.rtl ? '-90deg' : '90deg'},
               ${filledColor} 0%,
               ${filledColor} ${fillPercentage}%,
               ${clearColor} ${fillPercentage}%,
@@ -134,7 +134,7 @@ export default class Rating extends React.Component {
             );
         }
 
-        return starElements;
+        return this.props.rtl ? starElements.reverse() : starElements;
     }
 
     render() {
