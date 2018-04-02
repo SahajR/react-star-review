@@ -1,6 +1,6 @@
 {
-  "name": "star-review-react",
-  "version": "1.0.0",
+  "name": "react-star-review",
+  "version": "1.0.1",
   "description": "A simple and customizable rating component for React ",
   "main": "build/index.js",
   "scripts": {
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SahajR/star-rating-react.git"
+    "url": "git+https://github.com/SahajR/react-star-review.git"
   },
   "author": "SahajR <hello@sahajr.com>",
   "bugs": {
-    "url": "https://github.com/SahajR/star-rating-react.git/issues"
+    "url": "https://github.com/SahajR/react-star-review.git/issues"
   },
-  "homepage": "https://github.com/SahajR/star-rating-react.git#readme",
+  "homepage": "https://github.com/SahajR/react-star-review.git#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
