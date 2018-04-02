@@ -7,6 +7,13 @@
 A simple and customizable rating component for React
 ![Banner](assets/demo_rating.png "React star rating demo")
 
+## Install
+```js
+npm install react-star-review
+// or
+yarn add react-star-review
+```
+
 ## Props
 
 | Prop | Type | Description | Default |
