@@ -1,5 +1,8 @@
 # React star review
 [![version](https://img.shields.io/npm/v/react-star-review.svg?style=flat-square)](http://npm.im/react-star-review)
+[![downloads](https://img.shields.io/npm/dm/react-star-review.svg?style=flat-square)](http://npm-stat.com/charts.html?package=react-star-review&from=2018-04-03)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
+[![travis build](https://img.shields.io/travis/SahajR/react-star-review.svg?style=flat-square)](https://travis-ci.org/SahajR/react-star-review)
 
 A simple and customizable rating component for React
 ![Banner](assets/demo_rating.png "React star rating demo")
