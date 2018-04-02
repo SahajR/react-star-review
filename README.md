@@ -1,4 +1,4 @@
-# React simple rating
+# React star review
 A simple and customizable rating component for React
 ![Banner](assets/demo_rating.png "React star rating demo")
 
