@@ -1,5 +1,6 @@
 # React star review
 [![version](https://img.shields.io/npm/v/star-review-react.svg?style=flat-square)](http://npm.im/star-review-react)
+
 A simple and customizable rating component for React
 ![Banner](assets/demo_rating.png "React star rating demo")
 
