@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SahajR/react-star-review.git"
+    "url": "https://github.com/SahajR/react-star-review.git"
   },
   "author": "SahajR <hello@sahajr.com>",
   "bugs": {
