@@ -7,7 +7,7 @@
 A simple and customizable rating component for React
 ![Banner](assets/banner_.png "React star rating demo")
 
-View the [demo](https://review.demo.sahajr.com).
+View the [demo](https://reviews.demos.sahajr.com).
 
 ## Install
 ```js
