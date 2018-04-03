@@ -25,6 +25,7 @@ yarn add react-star-review
 | rtl | Boolean | Rating behaves in right-to-left direction | false |
 | interactive | Boolean | If true, users can change a rating. Must also provide `onRatingChanged` | false |
 | onRatingChanged | Function | Callback when rating changes | null |
+| icon | String | A valid CSS Basic shape to be used as a mask for ratings | Star |
 | count | Number | Number of stars, aka the scale | 5 |
 | borderThickness | Number | The stars' border thickness | 2 |
 | filledColor | String | Color used to fill the star | #FFC82C |

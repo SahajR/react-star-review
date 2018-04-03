@@ -17,8 +17,11 @@ export default class Rating extends React.Component {
         borderColor: '#E4B50E',
         hoverColor: '#FBDC84',
         interactive: false,
-        rtl: false
+        rtl: false,
+        icon: Rating.STAR_CLIPPER
     }
+
+    static STAR_CLIPPER = 'polygon(47.553% 75.000%, 18.164% 90.451%, 23.776% 57.725%, 0.000% 34.549%, 32.858% 29.775%, 47.553% 0.000%, 62.247% 29.775%, 95.106% 34.549%, 71.329% 57.725%, 76.942% 90.451%)'
 
     componentDidMount() {
         if (this.props.interactive) {
@@ -110,7 +113,7 @@ export default class Rating extends React.Component {
             )`,
             height: size - (2 * borderThickness),
             width: size - (2 * borderThickness),
-            clipPath: 'polygon(47.553% 75.000%, 18.164% 90.451%, 23.776% 57.725%, 0.000% 34.549%, 32.858% 29.775%, 47.553% 0.000%, 62.247% 29.775%, 95.106% 34.549%, 71.329% 57.725%, 76.942% 90.451%)',
+            clipPath: this.props.icon || Rating.STAR_CLIPPER,
             ...hoverStyle
         };
     }
