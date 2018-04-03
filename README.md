@@ -5,7 +5,7 @@
 [![travis build](https://img.shields.io/travis/SahajR/react-star-review.svg?style=flat-square)](https://travis-ci.org/SahajR/react-star-review)
 
 A simple and customizable rating component for React
-![Banner](assets/banner_.png "React star rating demo")
+![Banner](assets/demo.png "React star rating demo")
 
 View the [demo](https://reviews.demos.sahajr.com).
 
@@ -36,4 +36,4 @@ yarn add react-star-review
 
 ## Todos
 - [x] Add support for right-to-left
-- [ ] Add support for custom icons
+- [x] Add support for custom icons
