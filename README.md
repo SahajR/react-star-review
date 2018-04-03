@@ -28,10 +28,10 @@ yarn add react-star-review
 | icon | String | A valid CSS Basic shape to be used as a mask for ratings | Star |
 | count | Number | Number of stars, aka the scale | 5 |
 | borderThickness | Number | The stars' border thickness | 2 |
-| filledColor | String | Color used to fill the star | ![#FFC82C](https://placehold.it/50x15/FFC82C/000000?text=FFC82C) |
-| clearColor | String | Color used to indicate the empty areas of the star | ![#FFF](https://placehold.it/50x15/FFF/000000?text=White) |
-| borderColor | String | The stars' border color | ![#E4B50E](https://placehold.it/50x15/FFC82C/000000?text=E4B50E) |
-| hoverColor | String | Color used to fill when a user hovers over them | ![#FBDC84](https://placehold.it/50x15/FFC82C/000000?text=FBDC84) |
+| filledColor | String | Color used to fill the star | ![#FFC82C](https://placehold.it/50x25/FFC82C/000000?text=FFC82C) |
+| clearColor | String | Color used to indicate the empty areas of the star | ![#FFF](https://placehold.it/50x25/FFF/000000?text=White) |
+| borderColor | String | The stars' border color | ![#E4B50E](https://placehold.it/50x25/E4B50E/000000?text=E4B50E) |
+| hoverColor | String | Color used to fill when a user hovers over them | ![#FBDC84](https://placehold.it/50x25/FBDC84/000000?text=FBDC84) |
 
 
 ## Todos
