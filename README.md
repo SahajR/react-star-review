@@ -16,6 +16,9 @@ npm install react-star-review
 yarn add react-star-review
 ```
 
+## Usage
+View example code [here](https://github.com/SahajR/react-star-review/blob/master/src/demo/App.js)
+
 ## Props
 
 | Prop | Type | Description | Default |
